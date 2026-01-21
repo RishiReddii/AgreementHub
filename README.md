@@ -11,12 +11,10 @@ AgreementHub is a full-stack **document lifecycle management** application built
 - **Dashboard**: card-based overview and “recent documents” with quick actions
 - **Modern UI shell**: sidebar + topbar navigation (consistent layout across pages)
 
-## Screenshots (optional)
+## Screenshots 
+<img width="1906" height="865" alt="image" src="https://github.com/user-attachments/assets/278269a4-8be0-4380-83cb-4e0a41e029ab" />
+<img width="1919" height="872" alt="Screenshot 2026-01-21 174008" src="https://github.com/user-attachments/assets/ebeee052-6e9b-439d-82d9-859a7186d26f" />
 
-- Add screenshots here after deployment:
-  - `docs/screenshots/dashboard.png`
-  - `docs/screenshots/templates.png`
-  - `docs/screenshots/document.png`
 
 ## Setup Instructions
 
