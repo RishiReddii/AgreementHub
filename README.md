@@ -12,7 +12,7 @@ AgreementHub is a full-stack **document lifecycle management** application built
 - **Modern UI shell**: sidebar + topbar navigation (consistent layout across pages)
 
 Live Deployment - 
-https://aggrementhub-ordbzhwsk-rishhis-projects.vercel.app/ 
+https://aggrementhub.vercel.app?_vercel_share=4tuA1PjXWcjBcA8aXJhSXVxXX0ETydIe
 
 
 ## Screenshots 
