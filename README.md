@@ -20,6 +20,16 @@ https://aggrementhub-ordbzhwsk-rishhis-projects.vercel.app/
 <img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/bba93619-0f54-48e0-ac16-a4f98932f018" />
 
 
+## Tech stack rationale
+
+- **Next.js 14 (App Router)** unifies frontend and backend in one codebase, keeps routing/server handlers colocated, and is deployment-ready for edge/static hosting.
+- **MongoDB + native driver** fit the flexible document shape (templates with nested fields and status history) without an ORM layer, keeping inserts/updates predictable.
+- **Tailwind CSS + shadcn/ui (Radix)** provide accessible primitives, consistent spacing/typography tokens, and fast feature delivery without maintaining a bespoke design system.
+- **React Hook Form** keeps forms performant with minimal re-renders while handling complex field sets; validation stays close to inputs.
+- **Recharts + date-fns** cover lightweight dashboard charting and timezone-safe date handling without pulling heavier analytics stacks.
+  
+
+
 
 
 ## Setup Instructions
